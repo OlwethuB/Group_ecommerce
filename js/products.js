@@ -55,6 +55,125 @@ const products = [
       price: 25000,
       quantity: 6,
     },
+    {
+      id: 7,
+      image: "https://i.postimg.cc/qvRwVbyD/product1.jpg",
+      name: "Smart-Watch",
+      desc: "Its the best smartwatch on the market right now ",
+      price: 5000,
+      quantity: 1,
+    },
+    {
+      id: 8,
+      image: "https://i.postimg.cc/2yyM54tC/product2.webp",
+      name: "Microsoft Surface",
+      desc: "the microsoft surface is the pinnacle of at home/business laptop use",
+      price: 20000,
+      quantity: 2,
+    },
+    {
+      id: 9,
+      image:
+        "https://i.postimg.cc/Gh2mskxW/product3.jpg",
+      name: "Bose QuietComfort 35 Series II",
+      desc: "Has world class noise cancelling technology years ahead of its time",
+      price: 3800,
+      quantity: 3,
+    },
+    {
+      id: 10,
+      image:
+        "https://i.postimg.cc/9Xq4f3C6/produc4.jpg",
+      name: "Anker 737 Power Bank",
+      desc: "Currently the best in field when it comes to power banks",
+      price: 3000,
+      quantity: 4,
+    },
+    {
+      id: 11,
+      image:
+        "https://i.postimg.cc/gcxnSxjF/product5.jpg",
+      name: "Venom FerroFluid Magnetic Fluid Gaming Bluetooth Speaker",
+      desc: "The most innovative bluetooth speaker on the market",
+      price: 5400,
+      quantity: 5,
+    },
+    {
+      id: 12,
+      image: "https://i.postimg.cc/3NfVW3Vz/product6.jpg",
+      name: "49' Samsung Odyssey G9",
+      desc: "The best monitor you can get for your money",
+      price: 25000,
+      quantity: 6,
+    },
+    {
+      id: 13,
+      image: "https://i.postimg.cc/qvRwVbyD/product1.jpg",
+      name: "Smart-Watch",
+      desc: "Its the best smartwatch on the market right now ",
+      price: 5000,
+      quantity: 1,
+    },
+    {
+      id: 14,
+      image: "https://i.postimg.cc/2yyM54tC/product2.webp",
+      name: "Microsoft Surface",
+      desc: "the microsoft surface is the pinnacle of at home/business laptop use",
+      price: 20000,
+      quantity: 2,
+    },
+    {
+      id: 15,
+      image:
+        "https://i.postimg.cc/Gh2mskxW/product3.jpg",
+      name: "Bose QuietComfort 35 Series II",
+      desc: "Has world class noise cancelling technology years ahead of its time",
+      price: 3800,
+      quantity: 3,
+    },
+    {
+      id: 16,
+      image:
+        "https://i.postimg.cc/9Xq4f3C6/produc4.jpg",
+      name: "Anker 737 Power Bank",
+      desc: "Currently the best in field when it comes to power banks",
+      price: 3000,
+      quantity: 4,
+    },
+    {
+      id: 17,
+      image:
+        "https://i.postimg.cc/gcxnSxjF/product5.jpg",
+      name: "Venom FerroFluid Magnetic Fluid Gaming Bluetooth Speaker",
+      desc: "The most innovative bluetooth speaker on the market",
+      price: 5400,
+      quantity: 5,
+    },
+    {
+      id: 18,
+      image: "https://i.postimg.cc/3NfVW3Vz/product6.jpg",
+      name: "49' Samsung Odyssey G9",
+      desc: "The best monitor you can get for your money",
+      price: 25000,
+      quantity: 6,
+    },
+    {
+      id: 19,
+      image:
+        "https://i.postimg.cc/gcxnSxjF/product5.jpg",
+      name: "Venom FerroFluid Magnetic Fluid Gaming Bluetooth Speaker",
+      desc: "The most innovative bluetooth speaker on the market",
+      price: 5400,
+      quantity: 5,
+    },
+    {
+      id: 20,
+      image: "https://i.postimg.cc/3NfVW3Vz/product6.jpg",
+      name: "49' Samsung Odyssey G9",
+      desc: "The best monitor you can get for your money",
+      price: 25000,
+      quantity: 6,
+    },
   ];
   
   function displayProducts() {

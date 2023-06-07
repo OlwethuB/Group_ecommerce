@@ -40,6 +40,8 @@ ul {
     margin: 0 !important;
     padding: 0;
 }
+
+
 .main-text{
     color: white;
     position: absolute;
@@ -48,6 +50,14 @@ ul {
     transform: translate(-50%, -50%);
     padding: 10px;
     text-align: center;
+}
+h1{
+font-size: 50px;
+}
+
+
+p {
+    font-size: 30px;
 }
 
 .background {
@@ -122,9 +132,10 @@ footer{
 }
 /* footer style end  */
 button {
+    font-size: 20px;
     background-color: darkorchid;
     border: 2px solid black;
-    border-radius: 30px;
+    border-radius: 10px;
     color: white;
     padding: 5px;
     margin-top: 5px;
@@ -133,7 +144,7 @@ button {
 button:hover {
     background-color: white;
     border: 2px solid black;
-    border-radius: 30px;
+    border-radius: 20px;
     color: darkorchid;
     padding: 5px;
     margin-top: 5px;
